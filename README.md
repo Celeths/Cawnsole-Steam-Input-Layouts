@@ -2,7 +2,7 @@
 
 A small collection of Steam Input controller mappings (currently only for the second generation Steam Controller) to get the most out of a gamepad while also remaining intuitive and natural feeling to use.
 
-[![Patreon](Patreon_button.svg)](https://patreon.com/ProCrow?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
+[![Patreon](./Assets/Patreon.svg)](https://patreon.com/ProCrow?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
 
 *Some inputs are still "unset", but highlighted or mentioned in documentation. These inputs are ones I think would still feel intuitive, but I have not currently mapped it to anything.*
 
