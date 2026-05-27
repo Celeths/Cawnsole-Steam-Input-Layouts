@@ -11,9 +11,11 @@ A small collection of Steam Input controller mappings (currently only for the se
 
 ## Desktop Layout
 
-[Direct Steam Link Here](steam://controllerconfig/413080/3733399948)
+***DOWNLOAD***
 
-[Direct File Link Here](<./Cawnonical Desktop Layout/Cawnonical_Desktop_Layout.vdf>)
+Direct Steam Link: <steam://controllerconfig/413080/3733399948>
+
+[Direct File Link Here.](<./Cawnonical Desktop Layout/Cawnonical_Desktop_Layout.vdf>)
 
 *The full size [Master Map Image can be found here.](./Maps/Desktop/Master-Map.png)*
 
