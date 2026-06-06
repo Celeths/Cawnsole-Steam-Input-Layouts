@@ -8,17 +8,29 @@ A small collection of Steam Input controller mappings (currently only for the se
 
 <hr>
 
-## Chord Layout (soon)
+## Guide/ Chord Button Layout
+
+The Guide Button Layout will change the back buttons (L1, L2, R1, R2) into mouse clicks to accommodate the use of trackpad or gyro for cursor control:
+
+| Trackpad Touched | Thumbstick Long Press + Touch |
+| --- | --- |
+| Trackpad Cursor | Gyro Cursor |
+
+The changes will stop taking effect once the corresponding input isn't being touched *(you take your finger off the trackpad or thumbstick)*.
+
+<img src="./Maps/Guide/Guide.png" width="500"/>
+
+*[Spreadsheet view can be found here.](./Tables/Guide/Guide.xlsx)*
 
 <hr>
 
-## Desktop Layout
+## Desktop Layout (NOT FINISHED)
 
 ***DOWNLOAD***
 
 Direct Steam Link: <steam://controllerconfig/413080/3733399948>
 
-[Direct File Link Here.](<./Cawnonical Desktop Layout/Cawnonical_Desktop_Layout.vdf>)
+[Direct File Link Here.](<./Cawnsole Desktop Layout/Cawnsole_Desktop_Layout.vdf>)
 
 *The full size [Master Map Image can be found here.](./Maps/Desktop/Master-Map.png)*
 
