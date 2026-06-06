@@ -16,7 +16,7 @@ A small collection of Steam Input controller mappings (currently only for the se
 | <steam://controllerconfig/443510/3738257806> |
 | <workshop://3738257806> |
 | <https://cdn.steamusercontent.com/ugc/14088093969509472123/903E187A140E78BA404C97B5A6424E769881D04E/> |
-| --- |
+|  |
 | [Direct Repo Link](<./Cawnsole Guide Layout/Cawnsole_Guide_Layout.vdf>) |
 
 The Guide Button Layout will change the back buttons (L1, L2, R1, R2) into mouse clicks to accommodate the use of trackpad or gyro for cursor control:
@@ -33,7 +33,16 @@ The changes will stop taking effect once the corresponding input isn't being tou
 
 <hr>
 
-## Desktop Layout (NOT FINISHED)
+## Desktop Layout
+
+| ***DOWNLOAD*** |
+| --- |
+| Direct Steam Links |
+| <steam://controllerconfig/413080/3739868394> |
+| <workshop://3739868394> |
+| <https://cdn.steamusercontent.com/ugc/14505408255306668355/7FC7BA18E93023E63AE7E3A222104682E0D722AE/> |
+|  |
+| [Direct Repo Link](<./Cawnsole Destop Layout/Cawnsole_Desktop_Layout.vdf>) |
 
 *The full size [Master Map Image can be found here.](./Maps/Desktop/Master-Map.png)*
 
@@ -58,6 +67,8 @@ Hold each trigger to change the input mode;
 <img src="./Maps/Desktop/Both-Hands-Map.png" width="500"/>
 
 *[Spreadsheet view can be found here.](./Tables/Desktop/Both-Hands.xlsx)*
+
+*Right Windows button is only available using the edited Direct Repo Link above.*
 
 ### Left Hand Holding
 
